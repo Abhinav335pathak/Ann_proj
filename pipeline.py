@@ -215,7 +215,7 @@ PLOTLY_LAYOUT = dict(
 # ─── Header ─────────────────────────────────────────────────────────────────
 st.markdown("""
 <div class="header">
-    <h1>🔬 ML Pipeline Studio</h1>
+    <h1>Pipelytics AI</h1>
     <p>End-to-end machine learning workflow</p>
 </div>
 """, unsafe_allow_html=True)
