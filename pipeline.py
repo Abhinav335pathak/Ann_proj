@@ -9,7 +9,7 @@ warnings.filterwarnings('ignore')
 
 # ─── Page Config ────────────────────────────────────────────────────────────
 st.set_page_config(
-    page_title="ML Pipeline Studio",
+    page_title="Pipelytics AI",
     page_icon="🔬",
     layout="wide",
     initial_sidebar_state="collapsed"
